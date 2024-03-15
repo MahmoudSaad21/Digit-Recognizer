@@ -1,5 +1,4 @@
-Certainly! Below is a detailed README.md file with more tables for your project:
-
+## Digit Recognizer
 ```markdown
 # Digit Recognizer
 
