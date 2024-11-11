@@ -67,6 +67,3 @@ Special thanks to the Kaggle community for providing the MNIST dataset and valua
 
 Feel free to reach out with any questions or feedback. Let's continue exploring exciting projects together!
 
-```
-
-Feel free to customize this README.md according to your specific project details and preferences.
