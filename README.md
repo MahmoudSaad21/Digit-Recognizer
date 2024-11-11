@@ -1,5 +1,3 @@
-## Digit Recognizer
-```markdown
 # Digit Recognizer
 
 Welcome to the Digit Recognizer project! In this project, we build a convolutional neural network (CNN) using TensorFlow and Keras to recognize handwritten digits from the MNIST dataset. The goal is to develop an accurate digit recognition model capable of classifying digits from 0 to 9 with high precision.
